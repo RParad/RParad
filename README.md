@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on The Odin Project and School of Code
+- 🌱 I’m currently learning CSS, JavaScript and HMTL
+- 👯 I’m looking to collaborate on future projects with the rest of the cohort
